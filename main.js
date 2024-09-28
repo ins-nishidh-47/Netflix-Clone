@@ -1,0 +1,1 @@
+alert('You Lose 500$ from your bank account. You got hacked');
